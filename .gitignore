@@ -1,0 +1,9 @@
+backend/.env
+/backend/node_modules
+backend/package-lock.json
+backend/package.json
+frontend/package-lock.json
+frontend/package.json
+frontend/public/vite.svg
+frontend/README.md
+frontend/src/assets/react.svg
